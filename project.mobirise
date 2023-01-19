@@ -60,7 +60,7 @@
     },
     "chatbutton": {},
     "favicon": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-01-19-at-17.41.27-128x103_1.png",
-    "mbrsiteDomain": "oahyxdotmc",
+    "mbrsiteDomain": "lkuggavg7b",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -68,15 +68,15 @@
     "cookiesAlert": false,
     "witsec-white-label": true,
     "pwa-switcher": true,
-    "lazyLoad": true,
-    "cssOptimize": true,
+    "lazyLoad": false,
+    "cssOptimize": false,
     "PWA": {
       "enabled": true,
       "name": "",
-      "icon": "@PROJECT_PATH@/assets/images/whatsapp-image-2022-09-24-at-00.09.13-512x512.png",
+      "icon": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-01-19-at-17.41.27-512x512.png",
       "themeColor": "#000000"
     },
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "gdpr": false
   },
   "pages": {
