@@ -683,21 +683,21 @@ a {
   transition: color 0.6s;
 }
 .cid-tN7urhDozn {
-  padding-top: 0;
-  padding-bottom: 0;
+  padding-top: 0rem;
+  padding-bottom: 0rem;
   background-color: #fafafa;
 }
 .cid-tN7urhDozn .carousel {
+  height: 800px;
+}
+.cid-tN7urhDozn .carousel img {
   width: 100%;
-}
-.cid-tN7urhDozn .carousel-inner {
-  display: flex;
-  align-content: center;
-  align-items: center;
-}
-.cid-tN7urhDozn .carousel-item img {
-  height: 100vh;
+  height: 100%;
   object-fit: cover;
+}
+.cid-tN7urhDozn .carousel-item,
+.cid-tN7urhDozn .carousel-inner {
+  height: 100%;
 }
 .cid-tN7urhDozn .carousel-caption {
   bottom: 40px;
